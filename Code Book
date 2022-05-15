@@ -1,0 +1,3 @@
+All names (except "activity" and "subject") in datasets are the same as the measurements described in UCI HAR Dataset/features.txt
+activity: Each row identifies the activity name.
+subject: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
